@@ -1,0 +1,1 @@
+# WordPress-Poll-Manager-plugin-with-Unique-Voting
